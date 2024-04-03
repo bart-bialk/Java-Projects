@@ -1,9 +1,3 @@
-/**
- *
- *  @author Białkowski Bartłomiej S27335
- *
- */
-
 
 import java.io.*;
 import java.util.*;
