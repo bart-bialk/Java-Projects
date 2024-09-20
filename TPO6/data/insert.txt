@@ -1,0 +1,54 @@
+--Reprezentacja
+insert into reprezentacja(Nazwa) values ('Niemcy');
+insert into reprezentacja(Nazwa) values ('Austria');
+insert into reprezentacja(Nazwa) values ('Chorwacja');
+insert into reprezentacja(Nazwa) values ('Czechy');
+insert into reprezentacja(Nazwa) values ('Grecja');
+insert into reprezentacja(Nazwa) values ('Hiszpania');
+insert into reprezentacja(Nazwa) values ('Irlandia Północna');
+insert into reprezentacja(Nazwa) values ('Portugalia');
+insert into reprezentacja(Nazwa) values ('Rosja');
+insert into reprezentacja(Nazwa) values ('Słowacja');
+insert into reprezentacja(Nazwa) values ('Szwajcaria');
+insert into reprezentacja(Nazwa) values ('Ukraina');
+insert into reprezentacja(Nazwa) values ('Korea Południowa');
+insert into reprezentacja(Nazwa) values ('Stany Zjednoczone');
+insert into reprezentacja(Nazwa) values ('Ekwador');
+insert into reprezentacja(Nazwa) values ('Kostaryka');
+insert into reprezentacja(Nazwa) values ('Kolumbia');
+insert into reprezentacja(Nazwa) values ('Senegal');
+insert into reprezentacja(Nazwa) values ('Japonia');
+insert into reprezentacja(Nazwa) values ('Meksyk');
+insert into reprezentacja(Nazwa) values ('Argentyna');
+insert into reprezentacja(Nazwa) values ('Arabia Saudyjska');
+insert into reprezentacja(Nazwa) values ('Francja');
+
+
+--Mecz
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (1,'2008-06-08',0,2);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (2,'2008-06-12',1,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (3,'2008-06-16',0,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (5,'2012-06-08',1,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (9,'2012-06-12',1,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (4,'2012-06-16',0,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (7,'2016-06-12',1,0);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (1,'2016-06-16',0,0);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (12,'2016-06-21',1,0);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (11,'2016-06-25',1,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (8,'2016-06-30',1,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (10,'2021-06-14',1,2);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (6,'2021-06-19',1,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (13,'2021-06-23',2,3);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (13,'2002-06-04',0,2);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (8,'2002-06-10',0,4);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (14,'2002-06-14',3,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (15,'2006-06-09',0,2);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (1,'2006-06-14',0,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (16,'2006-06-20',2,1);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (18,'2018-06-19',1,2);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (17,'2018-06-24',0,3);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (19,'2018-06-28',1,0);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (20,'2022-11-22',0,0);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (22,'2022-11-26',2,0);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (21,'2022-11-30',0,2);
+insert into mecz(Reprezentacja, Data, BramkiPolska, BramkiPrzeciwnik) values (23,'2022-12-04',1,3);
